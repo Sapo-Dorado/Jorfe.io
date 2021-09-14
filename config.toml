@@ -1,0 +1,58 @@
+baseurl = "jorfe.io"
+title = "Jorfe.io"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+  author = "Nicholas Brown"
+  info = "A Cool Guy"
+  description = "Nicholas Brown's personal website"
+  keywords = "blog,developer,personal"
+  colorScheme = "dark"
+  avatarurl = "images/avatar.jpg"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  footercontent = "This is a footer"
+  hideFooter = false
+  hideCredits = false
+  hideCopyright = false
+  since = 2021
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/Sapo-Dorado"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 2
+  url = "https://www.linkedin.com/in/nicholas-brown-389539202"
+[[params.social]]
+  name = "YouTube"
+  icon = "fa fa-youtube fa-2x"
+  weight = 3
+  url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
