@@ -1,4 +1,4 @@
-baseurl = "jorfe.io"
+baseurl = ""
 title = "Jorfe.io"
 theme = "hugo-coder"
 languagecode = "en"
