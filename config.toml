@@ -17,7 +17,7 @@ disqusShortname = "yourdiscussshortname"
   info = "A Cool Guy"
   description = "Nicholas Brown's personal website"
   keywords = "blog,developer,personal"
-  colorScheme = "dark"
+  colorScheme = "auto"
   avatarurl = "images/avatar.jpg"
 
   favicon_32 = "/img/favicon-32x32.png"
@@ -30,8 +30,6 @@ disqusShortname = "yourdiscussshortname"
   since = 2021
 
   enableTwemoji = true
-
-  colorScheme = "auto"
   hidecolorschemetoggle = false
 
 [taxonomies]
