@@ -23,7 +23,7 @@ disqusShortname = "yourdiscussshortname"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  footercontent = "This is a footer"
+  footercontent = "Las Vegas is not on the west coast"
   hideFooter = false
   hideCredits = false
   hideCopyright = false
